@@ -1,4 +1,4 @@
 homebrew-chopshop
 =================
 
-ChopShop homebrew formula
+[ChopShop](https://github.com/MITRECND/chopshop) homebrew formula
